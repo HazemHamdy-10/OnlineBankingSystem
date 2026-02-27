@@ -1,0 +1,2 @@
+1001	hazem	123	1000.0	[2026-02-26 18:39:09] Account created with balance: 1000.0
+1002	hazem hamdy 	123	0.0	[2026-02-26 21:22:22] Account created with balance: 0.0
